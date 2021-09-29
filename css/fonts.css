@@ -5,7 +5,7 @@ nav {
 nav li {
   font-weight: bold;
   /* clamp(MIN, VAL, MAX) */
-  font-size: clamp(1rem, 4vw, 3rem);
+  font-size: clamp(1.5rem, 4vw, 3rem);
 }
 
 .logo span {
@@ -80,6 +80,7 @@ em, h3 {
 figcaption {
   /* clamp(MIN, VAL, MAX) */
   font-size: clamp(1.2rem, 2vw, 1.8rem);
+  text-align: start;
 }
 
 .like, .love::after {
@@ -88,12 +89,13 @@ figcaption {
   font-size: clamp(1.8rem, 3.5vw, 3rem);
 }
 
-cite {
+figcaption p {
   /* clamp(MIN, VAL, MAX) */
   font-size: clamp(.8rem, 1.5vw, 1rem);
+  font-style: italic;
 }
 
-cite:hover {
+figcaption p:hover {
   font-family: 'Yaldevi', sans-serif;
   text-shadow: 1px 1px 1px #8a2be2;
 }
