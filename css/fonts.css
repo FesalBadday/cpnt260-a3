@@ -77,6 +77,11 @@ em, h3 {
   font-family: 'Kaushan Script', cursive;
 }
 
+.gallrey-section h2 {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1.5rem, 2vw, 2.5rem);
+}
+
 figcaption {
   /* clamp(MIN, VAL, MAX) */
   font-size: clamp(1.2rem, 2vw, 1.8rem);
