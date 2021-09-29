@@ -193,11 +193,15 @@ h4 {
 
 /* Gallery Page */
 
+.ga-hea {
+  padding: 4rem;
+}
+
 .gallrey-section {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 6rem .5rem;
+  gap: 1rem;
   color: rgb(180, 180, 194);
 }
 
@@ -220,7 +224,7 @@ figure img:hover {
 }
 
 figcaption {
-  margin: 1rem;
+  margin: 4rem 0 2rem;
   text-align: center;
   text-shadow: 1px 1px 1px #8a2be2;
 }
@@ -237,7 +241,7 @@ figcaption {
   color: #8a2be2;
 }
 
-#toggle-like:checked~.like::after {
+[type="checkbox"]:checked~.like::after {
   content: "\f164";
   color: rgb(0, 0, 255);
 }
@@ -251,7 +255,7 @@ figcaption {
   color: #8a2be2;
 }
 
-#toggle-love:checked~.love::after {
+[type="checkbox"]:checked~.love::after {
   content: "\f004";
   color: rgb(255, 0, 0);
 }
@@ -263,11 +267,11 @@ figcaption {
 .love-like {
   display: flex;
   justify-content: space-evenly;
-  padding: 1rem 0 0;
+  padding: 2rem 0 0;
 }
 
-cite {
-  padding: 0 0 1rem;
+figcaption p {
+  padding: 0 0 5rem;
 }
 
 /* Footer */
