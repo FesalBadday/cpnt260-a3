@@ -13,6 +13,9 @@ nav ul {
   list-style-type: none;
   display: flex;
   justify-content: flex-end;
+  align-items: center;
+  gap: 2rem;
+  padding: 1rem;
 }
 
 nav li a {
@@ -29,11 +32,6 @@ nav a:hover {
   align-items: center;
   padding: 1rem;
   gap: 1rem;
-}
-
-.logo img {
-  /* clamp(MIN, VAL, MAX) */
-  width: clamp(40%, 10%, 100%);
 }
 
 a {
@@ -308,5 +306,11 @@ footer ul {
   }
   .te-article {
     padding: 2rem 4rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  nav span {
+    display: none;
   }
 }
