@@ -1,0 +1,113 @@
+nav {
+  font-family: 'Kaushan Script', cursive;
+}
+
+nav li {
+  font-weight: bold;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 4vw, 3rem);
+}
+
+.logo span {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+h1 {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-family: 'Kaushan Script', cursive;
+}
+
+.ab-section {
+  font-family: 'Lemonada', cursive;
+}
+
+.ab-section p {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 1.6vw, 1.4rem);
+}
+
+em, h3 {
+  font-weight: bold;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1.2rem, 2.2vw, 2rem);
+}
+
+.ref {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(0.8rem, 1.4vw, 1.2rem);
+  font-family: 'Lemonada', cursive;
+}
+
+/* Team Page */
+
+.te-section {
+  font-family: 'Lemonada', cursive;
+}
+
+.te-article h2 {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 2vw, 1.5rem);
+}
+
+.te-article h4 {
+  font-family: 'Yaldevi', sans-serif;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(0.9rem, 1.5vw, 1.2rem);
+}
+
+.te-section p {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(0.8rem, 1.2vw, 1.1rem);
+}
+
+.te1-section p {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 2vw, 1.5rem);
+}
+
+.te1-section i {
+  font-size: 5rem;
+}
+
+/* Gallery Page */
+
+.gallrey-section {
+  font-family: 'Kaushan Script', cursive;
+}
+
+figcaption {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1.2rem, 2vw, 1.8rem);
+}
+
+.like, .love::after {
+  font-family: FontAwesome;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1.8rem, 3.5vw, 3rem);
+}
+
+cite {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(.8rem, 1.5vw, 1rem);
+}
+
+cite:hover {
+  font-family: 'Yaldevi', sans-serif;
+  text-shadow: 1px 1px 1px #8a2be2;
+}
+
+/* Footer */
+
+footer p {
+  font-family: 'Lemonada', cursive;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 2vw, 1.5rem);
+}
+
+footer li {
+  font-family: 'Lemonada', cursive;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+}
