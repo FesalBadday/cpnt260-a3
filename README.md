@@ -44,3 +44,4 @@
 - Image of [Stylish automobile with glowing headlights](https://www.pexels.com/photo/stylish-automobile-with-glowing-headlights-on-parking-5214397) By [Erik Mclean](https://www.pexels.com/@introspectivedsgn) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
 - Image of [White Mercedes benz Sedan](https://www.pexels.com/photo/white-mercedes-benz-sedan-2611710) By [Javier Aguilera](https://www.pexels.com/@jamphotography) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
 - Image of [Hero Section](https://www.pexels.com/photo/grey-coupe-on-road-3136673) By [Sourav Mishra](https://www.pexels.com/@photosbymishra) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
+- Credits to [Ashley Knox](https://github.com/lilyx13) For teaching me how to use Hamburger Menu using JavaScript. 
