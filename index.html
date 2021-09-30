@@ -8,6 +8,8 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/fonts.css">
 
+  <script src="js/script.js"></script>
+
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -25,7 +27,7 @@
 
 <body>
   <!-- Nav -->
-  <nav>
+  <nav class="nav-links">
     <a href="#" class="logo">
       <img src="assets/images/logo.png" alt="Logo">
       <span>Carizzle</span>
@@ -37,6 +39,24 @@
       <li><a href="about.html">About</a></li>
     </ul>
   </nav>
+
+  <nav class="nav-menu">
+    <a href="#" class="logo">
+      <img src="assets/images/logo.png" alt="Logo">
+      <span>Carizzle</span>
+    </a>
+    <i class="bi bi-list" onclick="openNav()" id="menu-toggle"></i>
+    <div class="nav-link-container" id="menu">
+      <i class="bi bi-x-lg" onclick="closeNav()" id="closebtn"></i>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="index.html">Gallery</a></li>
+        <li><a href="team.html">Team</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </div>
+  </nav>
+
 
   <!-- Header -->
   <header class="ga-hero-sec">
@@ -59,7 +79,8 @@
             <span class="love"></span>
           </label>
         </span>
-        <figcaption>White Coupe during Night <p>Jan Kopřiva</p></figcaption>
+        <figcaption>White Coupe during Night <p>Jan Kopřiva</p>
+        </figcaption>
       </figure>
 
       <figure>
@@ -74,7 +95,8 @@
             <span class="love"></span>
           </label>
         </span>
-        <figcaption>White Chevrolet Camaro <p>Jesse Zheng</p></figcaption>
+        <figcaption>White Chevrolet Camaro <p>Jesse Zheng</p>
+        </figcaption>
       </figure>
 
       <figure>
@@ -89,7 +111,8 @@
             <span class="love"></span>
           </label>
         </span>
-        <figcaption>Shiny Yellow Audi Car in Showroom <p>Sourav Mishra</p></figcaption>
+        <figcaption>Shiny Yellow Audi Car in Showroom <p>Sourav Mishra</p>
+        </figcaption>
       </figure>
 
       <figure>
@@ -104,7 +127,8 @@
             <span class="love"></span>
           </label>
         </span>
-        <figcaption>Blue Old Classic Sedan <p>neil kelly</p></figcaption>
+        <figcaption>Blue Old Classic Sedan <p>neil kelly</p>
+        </figcaption>
       </figure>
 
       <figure>
@@ -119,7 +143,8 @@
             <span class="love"></span>
           </label>
         </span>
-        <figcaption>Audi Parked near Trees <p>Vlad Alexandru Popa</p></figcaption>
+        <figcaption>Audi Parked near Trees <p>Vlad Alexandru Popa</p>
+        </figcaption>
       </figure>
 
       <figure>
@@ -134,7 +159,8 @@
             <span class="love"></span>
           </label>
         </span>
-        <figcaption>Ferrari Sports Car Parked on Road <p>Roman Pohorecki</p></figcaption>
+        <figcaption>Ferrari Sports Car Parked on Road <p>Roman Pohorecki</p>
+        </figcaption>
       </figure>
 
       <figure>
@@ -149,7 +175,8 @@
             <span class="love"></span>
           </label>
         </span>
-        <figcaption>Nissan Gt-r on Car Show <p>Orest Sv</p></figcaption>
+        <figcaption>Nissan Gt-r on Car Show <p>Orest Sv</p>
+        </figcaption>
       </figure>
 
       <figure>
@@ -164,7 +191,8 @@
             <span class="love"></span>
           </label>
         </span>
-        <figcaption>Stylish automobile with glowing headlights <p>Erik Mclean</p></figcaption>
+        <figcaption>Stylish automobile with glowing headlights <p>Erik Mclean</p>
+        </figcaption>
       </figure>
 
       <figure>
@@ -179,7 +207,8 @@
             <span class="love"></span>
           </label>
         </span>
-        <figcaption>White Mercedes benz Sedan <p>Javier Aguilera</p></figcaption>
+        <figcaption>White Mercedes benz Sedan <p>Javier Aguilera</p>
+        </figcaption>
       </figure>
     </section>
   </main>
@@ -193,7 +222,6 @@
       <li><a href="https://twitter.com" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a></li>
     </ul>
   </footer>
-
 </body>
 
 </html>

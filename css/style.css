@@ -313,6 +313,41 @@ footer ul {
   list-style-type: none;
 }
 
+/* Hamburger Menu */
+
+.nav-link-container {
+  position: absolute;
+  top: 0;
+  display: none;
+  background-color: #000000cc;
+}
+
+.bi-list {
+  display: flex;
+  justify-content: flex-end;
+  padding: 2.5rem 1rem;
+  color: #8a2be2;
+  cursor: pointer;
+  font-size: 3rem;
+}
+
+.bi-x-lg {
+  display: flex;
+  justify-content: flex-end;
+  padding: 2.7rem 1.3rem;
+  color: #ff0000;
+  cursor: pointer;
+  font-size: 2.5rem;
+}
+
+.nav-menu i:hover {
+  opacity: .6;
+}
+
+.nav-menu {
+  display: none;
+}
+
 /* Media Query */
 
 @media screen and (max-width: 1473px) {
@@ -322,6 +357,12 @@ footer ul {
 }
 
 @media screen and (max-width: 866px) {
+  .nav-links {
+    display: none;
+  }
+  .nav-menu {
+    display: flex;
+  }
   nav ul {
     flex-direction: column;
   }

@@ -5,7 +5,7 @@ nav {
 nav li {
   font-weight: bold;
   /* clamp(MIN, VAL, MAX) */
-  font-size: clamp(1.5rem, 4vw, 3rem);
+  font-size: clamp(2rem, 3.5vw, 3rem);
 }
 
 .logo span {
