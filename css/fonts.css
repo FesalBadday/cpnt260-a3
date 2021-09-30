@@ -15,7 +15,7 @@ nav li {
 
 h1 {
   /* clamp(MIN, VAL, MAX) */
-  font-size: clamp(2rem, 5vw, 4rem);
+  font-size: clamp(5rem, 5vw, 8rem);
   font-family: 'Kaushan Script', cursive;
 }
 
@@ -79,7 +79,7 @@ em, h3 {
 
 .gallrey-section h2 {
   /* clamp(MIN, VAL, MAX) */
-  font-size: clamp(1.5rem, 2vw, 2.5rem);
+  font-size: clamp(2.7rem, 4vw, 6rem);
 }
 
 figcaption {

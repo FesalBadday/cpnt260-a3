@@ -291,8 +291,8 @@ figcaption p {
 
 .love-like {
   display: flex;
-  justify-content: space-evenly;
-  padding: 2rem 0 0;
+  justify-content: space-around;
+  padding: 1.5rem 0 0;
 }
 
 /* Footer */
