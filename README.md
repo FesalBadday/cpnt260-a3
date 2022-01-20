@@ -1,4 +1,4 @@
-# CPNT 260 Assignment 2 - Services, Info, Team Members, or Product Page
+# Services, Info, Team Members, or Product Page
 
 ---
 
