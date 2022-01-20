@@ -4,9 +4,9 @@
 
 **Author :** Fesal Badday
 
-**Repo :** [https://github.com/FesalBadday/cpnt260-a3](https://github.com/FesalBadday/cpnt260-a3)
+**Repo :** [Github Repo](https://github.com/FesalBadday/gallery-page)
 
-**Site :** [https://FesalBadday.github.io/cpnt260-a3](https://FesalBadday.github.io/cpnt260-a3)
+**Site :** [Github Pages](https://FesalBadday.github.io/gallery-page)
 
 **Information :**
 
@@ -24,7 +24,7 @@
 - [Logo](https://icons8.com/icon/XQpKqhk-sEvL/flood-car) From [Icons8](https://icons8.com). [License](https://icons8.com/license)
 - [CodePen Logo](https://icons8.com/icon/38382/codepen) From [Icons8](https://icons8.com). [License](https://icons8.com/license)
 - [GitHub Logo](https://icons8.com/icon/12599/github) From [Icons8](https://icons8.com). [License](https://icons8.com/license)
-- [Panorama image](https://fesalbadday.github.io/cpnt260-a2/assets/images/pano.jpg) From [WallpaperAccess](https://wallpaperaccess.com/dual-screen-car). [License](https://wallpaperaccess.com/faq#personaluse)
+- [Panorama image](https://fesalbadday.github.io/gallery-page/assets/images/pano.jpg) From [WallpaperAccess](https://wallpaperaccess.com/dual-screen-car). [License](https://wallpaperaccess.com/faq#personaluse)
 - Image of [Mechanic](https://www.pexels.com/photo/man-in-blue-long-sleeve-shirt-and-gray-pants-standing-beside-black-car-4489732) By [cottonbro](https://www.pexels.com/@cottonbro) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
 - Image of [Team](https://www.pexels.com/sk-sk/fotka/auto-kolegovia-technologie-stroje-3862627) By [ThisIsEngineering](https://www.pexels.com/sk-sk/@thisisengineering) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
 - [Yaldevi](https://fonts.google.com/specimen/Yaldevi?query=Yaldevi) Font By [Mooniak](https://fonts.google.com/?query=Mooniak) From [Google Fonts](https://fonts.google.com). [License](https://developers.google.com/fonts)
@@ -33,7 +33,7 @@
 - [Kaushan Script](https://fonts.google.com/specimen/Kaushan+Script?query=Kaushan+Script) Font By [Impallari Type](https://fonts.google.com/?query=Impallari+Type) From [Google Fonts](https://fonts.google.com). [License](https://developers.google.com/fonts)
 - [Facebook Icon](https://icons.getbootstrap.com/icons/facebook), [Youtube Icon](https://icons.getbootstrap.com/icons/youtube), [Twitter Icon](https://icons.getbootstrap.com/icons/twitter) From [Bootstrap](https://icons.getbootstrap.com/). [License](https://github.com/twbs/icons/blob/main/LICENSE.md)
 - Names of CFO, CEO, COO From [Character Name Generator](https://blog.reedsy.com/character-name-generator).
-- [CFO](https://generated.photos/face/joyfull-white-adult-male-with-short-brown-hair-and-brown-eyes--5e68085a6d3b380006d54871) & [CEO](https://fesalbadday.github.io/cpnt260-a2/assets/images/lucie-leclair.png) & [COO](https://fesalbadday.github.io/cpnt260-a2/assets/images/afon-dewey.png) From [Generated Photos](https://generated.photos). [License](https://generated.photos/faq)
+- [CFO](https://generated.photos/face/joyfull-white-adult-male-with-short-brown-hair-and-brown-eyes--5e68085a6d3b380006d54871) & [CEO](https://fesalbadday.github.io/gallery-page/assets/images/lucie-leclair.png) & [COO](https://fesalbadday.github.io/gallery-page/assets/images/afon-dewey.png) From [Generated Photos](https://generated.photos). [License](https://generated.photos/faq)
 - Image of [White Coupe during Night](https://www.pexels.com/photo/parked-white-coupe-during-night-3354648) By [Jan Kopřiva](https://www.pexels.com/@koprivakart) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
 - Image of [White Chevrolet Camaro](https://www.pexels.com/photo/close-up-photography-of-white-chevrolet-camaro-1213294) By [Jesse Zheng](https://www.pexels.com/@jessef11) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
 - Image of [Shiny Yellow Audi Car in Showroom](https://www.pexels.com/photo/shiny-yellow-audi-car-in-showroom-1149831) By [Sourav Mishra](https://www.pexels.com/@photosbymishra) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
