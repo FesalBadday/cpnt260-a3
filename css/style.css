@@ -227,7 +227,7 @@ h4 {
 }
 
 figure {
-  max-width: 40rem;
+  max-width: 35rem;
   display: flex;
   flex-direction: column;
   margin: 0 1rem 0;
